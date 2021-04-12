@@ -36,7 +36,7 @@ You can order finish low-budget or luxury edition with life-time API access incl
 
 # Usage
 
-At the first boot, your cryptoticker has no internet connection. You have to connect to it by following the instruction scrolling at the display (Connect to Wifi McMoes_CryptoTicker and type 192.168.4.1 in your browser). Now you can submit your wifi credentials to your esp board via the displayed html form. Now you will see the IP address, with wich you can communicate with your ticker during your wifi connection, on the display. After that the Crypto-Ticker will connect to McMoe's API and display the standard configurated information. You can now connect to your Ticker by typing the mentioned IP address into the browser of any device wich is connected to the same wifi as your Ticker. Here you can set your preferred configuration and wich coins you want to track. On a bad crypto day you can also change to clock-mode here.
+At the first boot, your cryptoticker has no internet connection. You have to connect to it by following the instruction scrolling over the display (Connect to Wifi McMoes_CryptoTicker and type 192.168.4.1 in your browser). Now you can submit your wifi credentials to your esp board via the displayed html form. Now you will see the IP address, with wich you can communicate with your ticker during your wifi connection, on the display. After that the Crypto-Ticker will connect to McMoe's API and display the standard configurated information. You can now connect to your Ticker by typing the mentioned IP address into the browser of any device wich is connected to the same wifi as your Ticker. Here you can set your preferred configuration and wich coins you want to track. On a bad crypto day you can also change to clock-mode here.
 
 
 # License
