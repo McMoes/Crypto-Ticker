@@ -8,12 +8,12 @@ The Crypto-Ticker is working with the API from api.mcmoe.de (public release soon
 Everytime new coins or exchanges are released via this API, you can track them with this code without editing your code.
 
 Examples:
-- [Low budget 1](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210302_230349.jpg)
-- [Low budget 2](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210302_230624.jpg)
+- [Low budget](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210302_230349.jpg)
+- [Low budget](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210302_230624.jpg)
 - [Luxury edition 1](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210224_203135.jpg)
+- [Luxury edition 1](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210330_000034.jpg)
 - [Luxury edition 2](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210224_202800.jpg)
-- [Luxury edition 3](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210329_235837.jpg)
-- [Luxury edition 4](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210330_000034.jpg)
+- [Luxury edition 2](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210329_235837.jpg)
 
 You can order finish low-budget or luxury edition with life-time API access including and already integrated while contacting support@mcmoe.de. Or have a look at www.mcmoe.de if the public selling already started.
 
