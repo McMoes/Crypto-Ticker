@@ -15,6 +15,8 @@ Examples:
 - [Luxury edition 3](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210329_235837.jpg)
 - [Luxury edition 4](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210330_000034.jpg)
 
+You can order finish low-budget or luxury edition with life-time API access including and already integrated while contacting support@mcmoe.de. Or have a look at www.mcmoe.de if the public selling already started.
+
 # Features
 
 - Track realtime price information of Bitcoin
@@ -25,12 +27,18 @@ Examples:
 
 # Installation
 
+- Connect your esp board to your Max7219 displays
 - Flash your esp32 with your micropython firmware (we used esp32-idf4-20200902-v1.13)
+- IMPORTANT: Edit coinobject.py and replace 'YOUR_API_KEY_FROM_MCMOE.DE' with your personal API-Key 
 - Get the latest release of this github repository and copy the files to your esp board in the same structure (We used uPyCraft for that). Of course you do not need the image folder.
 - That's it. Now connect your esp board to your power supply. The esp board will first run boot.py and after that run main.py.
 
 
 # Usage
 
-The Crypto-Ticker will 
-[My image](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210330_000034.jpg)
+At the first boot, your cryptoticker has no internet connection. You have to connect to it by following the instruction scrolling at the display (Connect to Wifi McMoes_CryptoTicker and type 192.168.4.1 in your browser). Now you can submit your wifi credentials to your esp board via the displayed html form. Now you will see the IP address, with wich you can communicate with your ticker during your wifi connection, on the display. After that the Crypto-Ticker will connect to McMoe's API and display the standard configurated information. You can now connect to your Ticker by typing the mentioned IP address into the browser of any device wich is connected to the same wifi as your Ticker. Here you can set your preferred configuration and wich coins you want to track. On a bad crypto day you can also change to clock-mode here.
+
+
+# License
+
+The code of McMoe's Crypto-Ticker is released under the terms of the MIT license. See LICENSE for more information or see https://opensource.org/licenses/MIT.
