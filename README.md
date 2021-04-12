@@ -20,10 +20,11 @@ If you do not
 # Installation
 
 - Flash your esp32 with your micropython firmware (we used esp32-idf4-20200902-v1.13)
-- Get the latest release of this github repository and copy the files to your esp board in the same structure (We used uPyCraft for that)
+- Get the latest release of this github repository and copy the files to your esp board in the same structure (We used uPyCraft for that). Of course you do not need the image folder.
 - That's it. Now connect your esp board to your power supply. The esp board will first run boot.py and after that run main.py.
 
 
 # Usage
 
 The Crypto-Ticker will 
+[My image](https://github.com/McMoes/Crypto-Ticker/tree/main/images/20210330_000034.jpg)
