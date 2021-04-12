@@ -27,4 +27,4 @@ If you do not
 # Usage
 
 The Crypto-Ticker will 
-[My image](https://github.com/McMoes/Crypto-Ticker/tree/main/images/20210330_000034.jpg)
+[My image](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210330_000034.jpg)
