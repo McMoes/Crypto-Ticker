@@ -30,7 +30,7 @@ You can order finish low-budget or luxury edition with API access including and 
 - Connect your esp board to your Max7219 displays
 - Flash your esp32 with your micropython firmware (we used esp32-idf4-20200902-v1.13)
 - IMPORTANT: Edit coinobject.py and replace 'YOUR_API_KEY_FROM_MCMOE.DE' with your personal API-Key 
-- Get the latest release of this github repository and copy the needed files to your esp board (We used uPyCraft for that). You need boot.py and main.py in your root folder. And you need the app folder. To prevent memory issues (esp32 is a low performance board) i highly recommend to use .mpy files instead of the .py files. for that delete your app folder and put the .mpy files from the mpy_files [folder](https://github.com/McMoes/Crypto-Ticker/tree/main/mpy_files/) there. These files are precompiled python files, so the board does not have to compile itself a lot and you save a lot memory.
+- Get the latest release of this github repository and copy the needed files to your esp board (We used uPyCraft for that). You need boot.py and main.py in your root folder. And you need the app folder. To prevent memory issues (esp32 is a low performance board) i highly recommend to use .mpy files instead of the .py files. for that delete your app folder and put the .mpy files from the mpy_files [folder](https://github.com/McMoes/Crypto-Ticker/tree/main/mpy_files/) there. These files are precompiled python files, so the board does not have to compile itself a lot and you save a lot memory. Of course you can freeze this code in your own custom firmware wich would be the best way to save RAM.
 - That's it. Now connect your esp board to your power supply. The esp board will first run boot.py and after that run main.py.
 
 
