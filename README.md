@@ -15,7 +15,7 @@ Examples:
 - [Luxury edition 2](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210224_202800.jpg)
 - [Luxury edition 2](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210329_235837.jpg)
 
-You can order finish low-budget or luxury edition with life-time API access including and already integrated while contacting support@mcmoe.de. Or have a look at www.mcmoe.de if the public selling already started.
+You can order finish low-budget or luxury edition with API access including and already integrated while contacting support@mcmoe.de. Or have a look at www.mcmoe.de if the public selling already started.
 
 # Features
 
