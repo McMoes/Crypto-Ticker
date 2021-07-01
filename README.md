@@ -13,7 +13,7 @@ CS          G15
 CLK         G18
 
 
-The Crypto-Ticker is working with the API from api.mcmoe.de (public release soon). You have to get your own API key there and save that key in the coinobject.py file. If you just want a testaccount or have any question regarding the api, please contact support@mcmoe.de.
+The Crypto-Ticker is working with the API from api.mcmoe.de. You have to get your own API key there and save that key in the coinobject.py file. If you just want a testaccount or have any question regarding the api, please contact support@mcmoe.de or use their contact form at the homepage https://www.mcmoe.de/en/contact/.
 
 Everytime new coins or exchanges are released via this API, you can track them with this code without editing your code.
 
@@ -25,7 +25,7 @@ Examples:
 - [Luxury edition 2](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210224_202800.jpg)
 - [Luxury edition 2](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210329_235837.jpg)
 
-You can order finish low-budget or luxury edition with API access including and already integrated while contacting support@mcmoe.de. Or have a look at www.mcmoe.de if the public selling already started.
+You can order finish low-budget or luxury edition with API access including and already integrated at https://www.mcmoe.de/en/crypto_ticker_products/.
 
 # Features
 
