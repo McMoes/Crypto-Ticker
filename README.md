@@ -20,12 +20,7 @@ Everytime new coins or exchanges are released via this API, you can track them w
 Examples:
 - [Low budget](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210302_230349.jpg)
 - [Low budget](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210302_230624.jpg)
-- [Luxury edition 1](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210224_203135.jpg)
-- [Luxury edition 1](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210330_000034.jpg)
-- [Luxury edition 2](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210224_202800.jpg)
-- [Luxury edition 2](https://github.com/McMoes/Crypto-Ticker/tree/main/img/20210329_235837.jpg)
 
-You can order finish low-budget or luxury edition with API access including and already integrated at https://www.mcmoe.de/en/crypto_ticker_products/.
 
 # Features
 
